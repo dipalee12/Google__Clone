@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Home from "./pages/Home";
-import SearchPage from "./SearchPage";
+import SearchPage from "./pages/SearchPage";
 import {
   BrowserRouter as Router,
   Switch,
