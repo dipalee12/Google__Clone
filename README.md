@@ -8,8 +8,6 @@ A simple Google search engine clone built with React. This project mimics the ba
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -44,3 +42,24 @@ To start the development server:
 
 ```bash
 npm start
+
+## Project Structur
+
+google-clone/
+  ├── public/
+  │   ├── index.html
+  │   └── ...
+  ├── src/
+  │   ├── components/
+  │   │   ├── SearchBar.js
+  │   │   ├── SearchResult.js
+  │   │   ├── Pagination.js
+  │   │   └── ...
+  │   ├── App.js
+  │   ├── index.js
+  │   └── ...
+  ├── .gitignore
+  ├── package.json
+  ├── README.md
+  └── ...
+
