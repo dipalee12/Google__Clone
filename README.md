@@ -16,7 +16,6 @@ A simple Google search engine clone built with React. This project mimics the ba
 - Search bar to enter search queries.
 - Google search button to trigger search.
 - Display of search results with titles, URLs, and descriptions.
-- Pagination for navigating through multiple pages of search results.
 - Responsive design for compatibility with various devices.
 
 ## Installation
@@ -24,7 +23,7 @@ A simple Google search engine clone built with React. This project mimics the ba
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/google-clone.git
+    git clone https://github.com/dipalee12/Google__Clone.git
     ```
 
 2. Navigate into the project directory:
